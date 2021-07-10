@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat and Antonio :wave:
+Feito com ♥ by Rocketseat :wave:
